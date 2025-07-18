@@ -1,5 +1,5 @@
 import resume from '../assets/pdf/resume.pdf'
-import adityaImage from '../assets/png/aditya11.png'
+import adityaImage from '../assets/png/aditya111.png'
 
 export const headerData = {
     name: 'Aditya Ranjan',
